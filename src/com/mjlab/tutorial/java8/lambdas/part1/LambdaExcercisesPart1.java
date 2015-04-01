@@ -1,7 +1,7 @@
 package com.mjlab.tutorial.java8.lambdas.part1;
 
-import com.mjlab.tutorial.java8.lambdas.part1.ElementUtils;
-import com.mjlab.tutorial.java8.lambdas.part1.StringUtils;
+import com.mjlab.tutorial.java8.lambdas.common.ElementUtils;
+import com.mjlab.tutorial.java8.lambdas.common.StringUtils;
 
 import java.util.Arrays;
 
