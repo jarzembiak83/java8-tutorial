@@ -25,5 +25,6 @@ public class LambdaExcercisesPart3 {
                 s -> s.length() > 5);
         System.out.println("firstAnyMatch");
         System.out.println(firstAnyMatch);
+
     }
 }

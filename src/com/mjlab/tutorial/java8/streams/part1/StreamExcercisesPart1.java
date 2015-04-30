@@ -2,7 +2,6 @@ package com.mjlab.tutorial.java8.streams.part1;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Optional;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
